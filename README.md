@@ -31,10 +31,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="Microchip-Logo.svg.png" alt="Logo" width="140" height="80">
+    <img src="Microchip-Logo.svg.png" alt="Logo" width="130" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Face Recognition with SAMA7G54 Evaluation Kit</h3>
 
   <p align="center">
     project_description
