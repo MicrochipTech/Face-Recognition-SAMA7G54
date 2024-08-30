@@ -12,7 +12,9 @@ A face recognition demo with SAMA7G54 Evaluation Board
 - [Contact](#contact)
 
 ## Software Stack
-
+- Tera Term
+  https://teratermproject.github.io/index-en.html
+- Edge Impulse
 ## Installation
 
 ```bash
