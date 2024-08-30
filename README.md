@@ -1,13 +1,15 @@
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
   <a href="https://github.com/github_username/repo_name">
     <img src="Microchip-Logo.svg.png" alt="Logo" width="120" height="80">
   </a>
 
-<h3 align="center">Face Recognition SAMA7G54</h3>
-
-  <p align="center">
+<h3 align="left">Face Recognition SAMA7G54</h3>
+<a href="https://github.com/github_username/repo_name">
+    <img src="Microchip-Logo.svg.png" alt="Logo" width="120" height="80">
+  </a>
+  <p align="left">
     This project explains how to use SAMA7G54 Evaluation Kit for face recognition.
     <br />
     <a href="https://www.microchip.com/en-us/development-tool/ev21h18a"><strong>Explore the docs »</strong></a>
@@ -54,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://www.microchip.com/en-us/development-tool/ev21h18a)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -62,9 +64,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 
-### Built With
+### Hardware Stack
 
-* [![Next][Next.js]][Next-url]
+1. Physical Hardware
+* SAMA7G54 Evaluation Kit
+* Ethernet Cable
+* USB-A Camera
+* Micro USB Camera x2 (comes with the eval kit)
+* 
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
