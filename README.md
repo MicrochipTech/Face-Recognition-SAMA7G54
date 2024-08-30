@@ -5,10 +5,10 @@
     <img src="Microchip-Logo.svg.png" alt="Logo" width="120" height="80">
   </a>
 
-<h3 align="center">Face Recognition with SAMA7G54 Evaluation Kit</h3>
+<h3 align="center">Face Recognition SAMA7G54</h3>
 
   <p align="center">
-    project_description
+    This project explains how to use SAMA7G54 Evaluation Kit for face recognition.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
