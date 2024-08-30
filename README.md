@@ -17,7 +17,7 @@
     ·
     <a href="https://microchip.my.site.com/s/newcase">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://microchip.my.site.com/s/newcase">Request Feature</a>
   </p>
 </div>
 
