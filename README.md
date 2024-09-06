@@ -1,7 +1,8 @@
 # Face Recognition with SAMA7G54
 
 This demo demonstrates a real-time face detection system using a Microchip MPU. The system processes live video input to identify and locate human faces within the frame.
-![Face Recognition Demo](URL_of_the_GIF)
+
+![Face Recognition Demo](https://github.com/gokcit/Face-Recognition-SAMA7G54-/blob/main/Smart%20Door%20Lock%20Demo%20SPS%202023%20%23shorts.gif)
 ## Getting Started
 
 ### Dependencies
