@@ -9,14 +9,12 @@ This demo demonstrates a real-time face detection system using a Microchip MPU. 
 
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
-#### Hardware Stack
-* SAMA7G54 Evaluation Kit
-  
-  https://www.microchip.com/en-us/development-tool/ev21h18a
-#### Software 
-* Console Application (ie. TeraTerm)
+#### Hardware Requirements
+* [Microchip SAMA7G54 Evaluation Kit](https://www.microchip.com/en-us/development-tool/ev21h18a).
+#### Software Requirements
+* Console Application - You will need a terminal emulator to interact with the terminal. ie. [TeraTerm](https://teratermproject.github.io/index-en.html)
 
-  https://teratermproject.github.io/index-en.html
+  
 ### Installing
 * Download the Primary User Guide of SAMA7G54. Go to page 66.
 
