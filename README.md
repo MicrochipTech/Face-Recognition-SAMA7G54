@@ -1,7 +1,7 @@
 # Face Recognition with SAMA7G54
 
 This demo demonstrates a real-time face detection system using a Microchip MPU. The system processes live video input to identify and locate human faces within the frame.
-
+![Face Recognition Demo](URL_of_the_GIF)
 ## Getting Started
 
 ### Dependencies
@@ -17,9 +17,20 @@ This demo demonstrates a real-time face detection system using a Microchip MPU. 
 
   https://teratermproject.github.io/index-en.html
 ### Installing
+* Download the Primary User Guide of SAMA7G54. Go to page 66.
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+>  Follow these steps before using the SAMA7G54-EK:
+>   1. Unpack the board, taking care to avoid electrostatic discharge.
+>   2. Check the Default Jumper Settings.
+>   3. Connect the USB-micro-AB cable to connector J24 (J-Link-OB USB port).
+>   4. Connect the other end of the cable to a free port on the PC.
+>   5. Open a terminal (console 115200, N, 8, 1) on the PC.
+>   6. Supply the board by performing one of the following connections:
+>   a. USB-micro-AB cable to connector J7 (USB-A port)
+>   b. AC/DC wall adapter to connector J1 (DC jack connector)
+>   7. Reset the board.
+>   8. A startup message appears on the console as shown in the picture below.
+
 
 ### Executing program
 
