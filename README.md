@@ -11,6 +11,7 @@ This demo demonstrates a real-time face detection system using a Microchip MPU. 
 * ex. Windows 10
 #### Hardware Requirements
 * [Microchip SAMA7G54 Evaluation Kit](https://www.microchip.com/en-us/development-tool/ev21h18a).
+* USB Camera
 #### Software Requirements
 * Console Application - You will need a terminal emulator to interact with the terminal. ie. [TeraTerm](https://teratermproject.github.io/index-en.html)
 
