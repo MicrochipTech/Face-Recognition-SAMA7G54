@@ -16,7 +16,7 @@ This demo demonstrates a real-time face detection system using a Microchip MPU. 
 * Console Application - You will need a terminal emulator to interact with the terminal on board. ie. [TeraTerm](https://teratermproject.github.io/index-en.html)
 
   
-### Installing
+### Installation
 * Download the Primary User Guide of SAMA7G54. Go to page 66.
 
 >  Follow these steps before using the SAMA7G54-EK:
@@ -31,6 +31,8 @@ This demo demonstrates a real-time face detection system using a Microchip MPU. 
 >   7. Reset the board.
 >   8. A startup message appears on the console as shown in the picture below.
 
+* Follow [this guide](https://docs.edgeimpulse.com/docs/edge-ai-hardware/cpu/microchip-sama7) provided by Edge Impulse to flash the image on your Microprocessor.
+ 
 
 ### Executing program
 
