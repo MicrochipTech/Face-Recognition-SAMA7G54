@@ -1,4 +1,3 @@
-# Face Recognition with SAMA7G54
 
 
 # Face Recognition with SAMA7G54
