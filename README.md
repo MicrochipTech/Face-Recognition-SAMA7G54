@@ -1,69 +1,5 @@
 # Face Recognition with SAMA7G54
 
-This demo demonstrates a real-time face detection system using a Microchip MPU. The system processes live video input to identify and locate human faces within the frame.
-
-## Getting Started
-
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-#### Hardware Requirements
-* [Microchip SAMA7G54 Evaluation Kit](https://www.microchip.com/en-us/development-tool/ev21h18a).
-* USB Camera
-#### Software Requirements
-* Console Application - You will need a terminal emulator to interact with the terminal on board. ie. [TeraTerm](https://teratermproject.github.io/index-en.html)
-
-  
-### Installation
-* Download the Primary User Guide of SAMA7G54. Go to page 66.
-
->  Follow these steps before using the SAMA7G54-EK:
->   1. Unpack the board, taking care to avoid electrostatic discharge.
->   2. Check the Default Jumper Settings.
->   3. Connect the USB-micro-AB cable to connector J24 (J-Link-OB USB port).
->   4. Connect the other end of the cable to a free port on the PC.
->   5. Open a terminal (console 115200, N, 8, 1) on the PC.
->   6. Supply the board by performing one of the following connections:
->   a. USB-micro-AB cable to connector J7 (USB-A port)
->   b. AC/DC wall adapter to connector J1 (DC jack connector)
->   7. Reset the board.
->   8. A startup message appears on the console as shown in the picture below.
-
-* Follow [this guide](https://docs.edgeimpulse.com/docs/edge-ai-hardware/cpu/microchip-sama7) provided by Edge Impulse to flash the image on your Microprocessor.
- 
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-
-## Acknowledgments
 
 # Face Recognition with SAMA7G54
 
@@ -111,6 +47,8 @@ Real-time face detection demo running on a Microchip SAMA7G54 evaluation kit. Th
 ---
 
 ## Installation
+
+* Follow [this guide](https://docs.edgeimpulse.com/docs/edge-ai-hardware/cpu/microchip-sama7) provided by Edge Impulse to flash the image on your Microprocessor.
 
 1. Unpack the SAMA7G54 evaluation board, ensuring you observe ESD precautions.  
 2. Check and set default jumper settings.  
