@@ -91,14 +91,17 @@ Real-time face detection demo running on a Microchip SAMA7G54 evaluation kit. Th
 ## Authors
 
 - Microchip Technology, Inc.  
-- (Add any individual contributors here, if applicable.)
+- Gokce Yavuz
 
 ---
 
-## License
+## Licenses
 
-Specify license here (e.g. MIT, Apache-2.0, etc.).  
-(If you haven’t chosen one yet, pick a license and insert the text or link.)
+- https://spdx.org/licenses/BSD-3-Clause-Clear.html
+- COCO dataset © 2014 Microsoft, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- MobileNet model © Google, licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+- Edge Impulse SDK and generated library, licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+- Microchip SAMA7G54 evaluation hardware subject to [Microchip Technology terms](https://www.microchip.com/legal).
 
 ---
 
