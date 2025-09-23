@@ -91,7 +91,7 @@ Real-time face detection demo running on a Microchip SAMA7G54 evaluation kit. Th
 ## Authors
 
 - Microchip Technology, Inc.  
-- Gokce Yavuz
+- For questions please reach out to gokce.yavuz@microchip.com
 
 ---
 
