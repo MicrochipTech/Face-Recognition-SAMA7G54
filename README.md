@@ -1,6 +1,6 @@
 
 
-# Face Recognition with SAMA7G54
+# Face Detection with SAMA7G54
 
 Real-time face detection demo running on a Microchip SAMA7G54 evaluation kit. The system captures live video input, identifies human faces, and reports their locations within each video frame.
 
